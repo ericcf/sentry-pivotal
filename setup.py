@@ -23,7 +23,7 @@ install_requires = [
 
 setup(
     name='sentry-pivotal',
-    version='0.1.0',
+    version='0.1.1',
     author='David Cramer',
     author_email='dcramer@gmail.com',
     url='http://github.com/getsentry/sentry-pivotal',
