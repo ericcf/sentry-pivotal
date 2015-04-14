@@ -28,7 +28,7 @@ setup(
     author_email='dcramer@gmail.com',
     url='http://github.com/getsentry/sentry-pivotal',
     description='A Sentry extension which integrates with Pivotal Tracker.',
-    long_description=__doc__,
+    long_description=open('README.rst').read(),
     license='BSD',
     package_dir={'': 'src'},
     packages=find_packages('src'),
